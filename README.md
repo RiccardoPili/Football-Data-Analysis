@@ -1,12 +1,10 @@
 # Football Data-Analysis
 
----
-
 ### Autori
 
 - Riccardo Pili (MATR 993308)
-- Patrick Salazar (MATR )
-- Luisa Giusto (MATR )
+- Patrick Salazar (MATR 954941)
+- Luisa Giusto (MATR 985710)
 
 
 ### Descrizione del progetto
