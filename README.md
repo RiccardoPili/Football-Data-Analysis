@@ -28,10 +28,10 @@ Nell'analisi dei dati sono state effettuate le seguenti fasi:
   
 - **Data Analysis & Visualization:** Per ogni file di dati sono state create visualizzazioni rilevanti in Jupyter notebook diversi, in particolare:
 
-  - `players.ipynb`: visualizzazioni relative alle statistiche dei giocatori
-  - `games.ipynb`: visualizzazioni relative alle statistiche delle partite e degli eventi delle partite
-  - `teams.ipynb`: visualizzazioni relative alle squadre
-  - `competitions.ipynb`: visualizzazioni relative ai campionati, sia per quanto riguarda giocatori che squadre
+  - `players_stats.ipynb`: visualizzazioni relative ai giocatori
+  - `games_stats.ipynb`: visualizzazioni relative alle partite e agli eventi delle partite
+  - `teams_stats.ipynb`: visualizzazioni relative alle squadre
+  - `competitions_stats.ipynb`: visualizzazioni relative ai campionati, sia per quanto riguarda giocatori che squadre
 
 
 
@@ -39,4 +39,4 @@ Nell'analisi dei dati sono state effettuate le seguenti fasi:
 
 _Non è stato possibile caricare i file di dati nella repository GitHub in quanto superavano il limite di dimensione massima consentito, anche se compressi in formato .zip._
 
-_Per eseguire i Jupyter Notebooks, è necessario modificare il percorso nel file `folder_path.py` inserendo la posizione locale della cartella contenente i file di dati csv._
+_Per eseguire i Jupyter Notebooks, è necessario modificare il percorso folder_path nel file `config.py` inserendo la posizione locale della cartella contenente i file di dati csv._
