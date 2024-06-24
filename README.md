@@ -12,7 +12,7 @@
 Analisi e visualizzazione dei dati relativi alle statistiche sul calcio. I dati fanno riferimento al sito [Transfermarkt.com](https://www.transfermarkt.com/) e riguardano le statistiche sulle principali competizioni calcistiche europee.
 
 
-Il progetto fa ampio uso delle seguenti librerie e strumenti:
+Il progetto fa ampio uso delle seguenti linguaggi, librerie e strumenti:
 - python
 - jupyter notebooks
 - pandas
@@ -30,7 +30,7 @@ Nell'analisi dei dati sono state effettuate le seguenti fasi:
 
   - `players_stats.ipynb`: visualizzazioni e statistiche relative ai giocatori
   - `games_stats.ipynb`: visualizzazioni e statistiche relative alle partite e agli eventi delle partite
-  - `teams_stats.ipynb`: visualizzazioni e statistiche relative alle squadre
+  - `teams_stats.ipynb`: visualizzazioni e statistiche relative alle nazionali e alle squadre di club
   - `competitions_stats.ipynb`: visualizzazioni e statistiche relative ai campionati
 
 
