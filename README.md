@@ -1,5 +1,7 @@
 # Football Data-Analysis
 
+![Data Visualizations Image](./cover_data_analysis.png)
+
 ### Autori
 
 - Luisa Giusto (MATR 985710)
